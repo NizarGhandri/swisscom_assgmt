@@ -125,5 +125,9 @@ venv.bak/
 .dmypy.json
 dmypy.json
 
+# Personal 
+
+swisscom_assignement/data/
+
 # Pyre type checker
 .pyre/
